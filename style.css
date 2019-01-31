@@ -1,0 +1,56 @@
+body{
+  background-color: #fcdbdb;
+}
+
+h1{
+  color: blue;
+  text-transform: uppercase;
+  font-size: 45px;
+}
+h2{
+  color: #d139f7;
+}
+h3{
+  color: #5f980d;
+}
+#Main-heading{
+  font-family: fantasy;
+  font-weight: bold;
+  font-size: 50px;
+  color: red;
+}
+#Second-heading{
+  color: grey;
+  text-decoration: underline;
+}
+.radioBox{
+  text-align: center;
+  line-height: 2em;
+}
+#ending{
+  text-align: right;
+}
+#thanks{
+  font-family: sans-serif;
+  font-weight: highlight;
+  font-size: 30px;
+  color: #2b032a;
+}
+#ending{
+  font-family: sans-serif;
+  font-weight: highlight;
+  font-size: 30px;
+  color: #2b032a;
+}
+.footer{
+  background-color: #d4cfff;
+}
+input[type="radio"]:checked + label{
+  color: red;
+  font-family: fantasy;
+}
+a:visited {
+  color: brown;
+}
+A:link { COLOR: grey; }
+A:hover { COLOR: green; }
