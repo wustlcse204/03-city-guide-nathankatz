@@ -25,3 +25,10 @@ Do not worry about the style and appearance of your site as much- focus on conte
 10. Embed at least one google map on your website.
 11. Use links to navigate your website, as well as to link to relevant external websites.
 12. Provide clear actions to your content.
+
+
+Create a page header bar that is affixed to the top of the page and includes your site title and some navigation links.
+The header bar should be "fixed" so that when you scroll, it remains in position.
+Make sure to account for the height of the header in the content on your page- you don't want the header to cover up the beginning of your page content!
+Create a column layout for a section of content on your page.
+The number of columns is up to you, but should be appropriate for the content of your page.
